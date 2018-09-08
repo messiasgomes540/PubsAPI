@@ -22,7 +22,7 @@ namespace WebServicePubs
         [WebMethod]
         public string Ativo()
         {
-            return "ativo";
+            return "Ativo";
         }
 
         [WebMethod]
